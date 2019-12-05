@@ -1,5 +1,6 @@
 .DS_Store
 codemeta.json
+/code/.HawkDoveGame.tmp.nlogo
 /output/*
 /data/*
 /docs/*
