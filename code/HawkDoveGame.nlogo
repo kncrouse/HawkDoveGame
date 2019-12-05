@@ -170,7 +170,7 @@ initial-number-doves
 initial-number-doves
 0
 500
-0.0
+16.0
 2
 1
 NIL
@@ -504,6 +504,8 @@ TEXTBOX
 1
 
 @#$#@#$#@
+# The Hawk-Dove Game 1.1.0
+
 This version is compatible with NetLogo 6.0.2
 
 ## WHAT IS IT?
@@ -549,22 +551,19 @@ HAWKS / TOTAL: ratio of hawks to total individuals present
 DOVES / TOTAL: ratio of doves to total individuals present
 RETALIATORS / TOTAL: ratio of retaliators to total individuals present
 
-
 ## THINGS TO NOTICE
 
 An evolutionarily stable strategy (ESS) is one that cannot be invaded by another strategy. Which strategy or strategies are an ESS?
-
 
 ## HOW TO CITE
 
 Crouse, K. N. (2018).  The Hawk-Dove Game model. Evolutionary Anthropology Lab, Department of Anthropology, University of Minnesota, Minneapolis, MN.
 
-
 ## COPYRIGHT AND LICENSE
 
-Copyright 2018 K N Crouse
+© 2018 K N Crouse
 
-This model was created at the University of Minnesota as part of a series of applets to illustrate principles in biological evolution.
+This model was created at the University of Minnesota as part of a series of models to illustrate principles in biological evolution.
 
 The model may be freely used, modified and redistributed provided this copyright is included and the resulting models are not used for profit.
 
@@ -879,7 +878,7 @@ false
 Polygon -7500403 true true 270 75 225 30 30 225 75 270
 Polygon -7500403 true true 30 75 75 30 270 225 225 270
 @#$#@#$#@
-NetLogo 6.0.4
+NetLogo 6.1.1
 @#$#@#$#@
 setup
 set grass? true
