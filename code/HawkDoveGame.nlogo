@@ -170,7 +170,7 @@ initial-number-doves
 initial-number-doves
 0
 500
-16.0
+10.0
 2
 1
 NIL
@@ -200,7 +200,7 @@ initial-number-hawks
 initial-number-hawks
 0
 500
-100.0
+500.0
 2
 1
 NIL
@@ -215,7 +215,7 @@ injury-cost
 injury-cost
 0.0
 200.0
-100.0
+0.0
 1.0
 1
 NIL
@@ -444,7 +444,7 @@ loss-cost
 loss-cost
 0
 100
-0.0
+100.0
 1
 1
 NIL
@@ -461,10 +461,10 @@ TEXTBOX
 1
 
 MONITOR
-44
-502
-173
-551
+50
+507
+168
+556
 Carrying Capacity
 initial-number-hawks +\ninitial-number-doves +\ninitial-number-retaliators
 0
@@ -487,7 +487,7 @@ stop-at
 stop-at
 0
 10000
-1000.0
+2800.0
 100
 1
 ticks
@@ -506,7 +506,7 @@ TEXTBOX
 @#$#@#$#@
 # The Hawk-Dove Game 1.1.0
 
-This version is compatible with NetLogo 6.0.2
+This version is compatible with NetLogo 6.1.1
 
 ## WHAT IS IT?
 
